@@ -1,8 +1,8 @@
 # MediaAnalyse
 
-![软件界面](./images/ui.png)
+![软件界面](.\images\ui.png)
 
-## 一个基于ffmpeg实现了ffprobe的可视化的Windows软件
+## 一个基于ffmpeg实现了ffprobe可视化的Windows软件
 
 ### 项目功能
 

@@ -1,6 +1,6 @@
 # MediaAnalyse
 
-![软件界面](https://github.com/chenli1379/MediaAnalyse/tree/main/images/ui.png)
+![软件界面](https://github.com/chenli1379/MediaAnalyse/raw/main/images/ui.png)
 
 ## 一个基于ffmpeg实现了ffprobe可视化的Windows软件
 
